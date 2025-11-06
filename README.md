@@ -2,7 +2,7 @@
 
 Este projeto documenta a simulação e análise de vulnerabilidades de Força Bruta (Brute-Force) em ambientes controlados, utilizando as ferramentas Medusa e Hydra no Kali Linux.
 
-**Aluno:** Murilo (Estudante de Análise e Desenvolvimento de Sistemas)
+**Aluno:** Murilo
 **Ambiente:** VMware Workstation (Kali Linux + Metasploitable 2)
 
 ---
