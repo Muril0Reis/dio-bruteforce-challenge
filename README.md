@@ -62,3 +62,6 @@ O ataque foi bem-sucedido, identificando a credencial padrão de administrador: 
 ## 🖼️ Evidências e Submissão
 
 Todas as capturas de tela (execução do Medusa, login FTP, etc.) estão organizadas na pasta `/images`.
+
+## Agradecimentos
+Agraço a plataforma DIO e também a Isadora Ferrão pelas aulas.
